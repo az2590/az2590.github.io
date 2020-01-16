@@ -1,5 +1,20 @@
 h1{
-	color: white;
-	font-size: 100px;
+	color: #F9B3D1;
+	text-align: center;
+	font-size: 200px;
+	font-family: 'Dawning of a New Day', cursive;
 }
 
+.container{
+	background-color:#B49FCC;
+	height: 200px; 
+}
+
+.top-half{
+	background-color: #FFFFFF;
+	height: 200px;
+}
+
+.chick{
+	background-color: #EAD7D7;
+}

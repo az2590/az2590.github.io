@@ -17,4 +17,14 @@ h1{
 
 .chick{
 	background-color: #EAD7D7;
+	height: 2000px;
+	font-family: 'BioRhyme', serif;
+	font-size: 50px;
+	text-align: right;
+}
+
+img{
+	height: 1200px;
+	width: 1200px;
+	float: left;
 }

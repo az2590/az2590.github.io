@@ -69,6 +69,82 @@ img{
 
 }
 
+#eggroll{
+	height: 70%;
+	width: auto;
+	float: right;
+	transform: rotate(360deg);
+	padding-right: 50px;
+}
 
+.food{
+	background-color: #EBCBF4;
+	height: 700px;
+	font-size: 50px;
+	font-family: 'Amatic SC', cursive;
+  	text-decoration: underline;
+	text-align: center;
+	padding-top: 25px;
 
+}
+
+.photography{
+	background-color: #FFDF8B;
+	height: 700px;
+
+}
+.photo{
+	font-size: 50px;
+	font-family: 'Amatic SC', cursive;
+	text-align: left;
+	padding-left: 200px;
+	padding-top: 25px;
+}
+
+#nyc{
+	transform:rotate(360deg);
+	height: auto;
+	width: 25%;
+	padding-left: 50px;
+}
+
+#park{
+	transform:rotate(360deg);
+	height: auto;
+	width: 25%;
+	padding-left: 100px;
+}
+
+#pink{
+	transform:rotate(360deg);
+	height: auto;
+	width: 25%;
+	padding-left: 150px;
+}
+
+#art{
+	transform:rotate(360deg);
+	height: auto;
+	width: 30%;
+	padding-left: 200px
+	padding-top: 50px;
+}
+
+#college{
+	transform:rotate(360deg);
+	height: auto;
+	width: 25%;
+	float: center;
+	padding-left: 250px
+	padding-top: 50px;
+	margin-bottom: 200px;
+}
+
+#blue{
+	transform:rotate(360deg);
+	height: auto;
+	width: 25%;
+	padding-left: 250px
+	padding-top: 50px;
+}
 

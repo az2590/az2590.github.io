@@ -15,16 +15,60 @@ h1{
 	height: 200px;
 }
 
-.chick{
+.back{
 	background-color: #EAD7D7;
-	height: 2000px;
+	height: 600px;
+
+}
+
+.chick{
 	font-family: 'BioRhyme', serif;
-	font-size: 50px;
+	font-size: 25px;
 	text-align: right;
+	word-wrap: break-word;
+	margin-left: 600px;
+	padding: 20px;
 }
 
 img{
-	height: 1200px;
-	width: 1200px;
+	height: auto;
+	width: 35%;
 	float: left;
+	transform: rotate(90deg);
 }
+
+.background{
+	background-color: #C6D4FF;
+	height: 700px;
+}
+
+.bio{
+	font-family: 'BioRhyme', serif;
+	text-align: left;
+	font-size: 25px;
+	padding: 30px;
+	text-shadow: 2px 2px #FFFFFF;
+	margin-top: 100px
+}
+
+#kimbap{
+	height: 75%;
+	width: auto;
+	padding-left:50px;
+	padding-top:50px;
+	float: left;
+	transform: rotate(360deg);
+}
+
+#curry{
+	height: 70%;
+	width: auto;
+	padding-left:100px;
+	float: center;
+	transform: rotate(270deg);
+
+}
+
+
+
+

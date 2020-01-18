@@ -125,7 +125,7 @@ img{
 #art{
 	transform:rotate(360deg);
 	height: auto;
-	width: 30%;
+	width: 40%;
 	padding-left: 200px
 	padding-top: 50px;
 }
@@ -136,14 +136,14 @@ img{
 	width: 25%;
 	float: center;
 	padding-left: 250px
-	padding-top: 50px;
+	padding-top: 150px;
 	margin-bottom: 200px;
 }
 
 #blue{
 	transform:rotate(360deg);
 	height: auto;
-	width: 25%;
+	width: 30%;
 	padding-left: 250px
 	padding-top: 50px;
 }
